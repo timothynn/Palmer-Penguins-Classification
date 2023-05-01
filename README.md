@@ -18,7 +18,7 @@ This project aims to cluster penguins into different groups based on their physi
 
 **Data Source:** [Palmer Penguin Dataset](https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data)
 
-**Data Description:** The data contains information about different penguin species, including their physical characteristics such as beak length, flipper length, and body mass. The data has [Insert Number of Instances] instances and [Insert Number of Features] features.
+**Data Description:** The data contains information about different penguin species, including their physical characteristics such as beak length, flipper length, and body mass. The data has 344 instances and 17 features.
 
 <img src="https://previews.123rf.com/images/aomeditor/aomeditor1903/aomeditor190300021/122254680-illustrator-of-body-parts-of-penguin.jpg" width='600px'>
 
