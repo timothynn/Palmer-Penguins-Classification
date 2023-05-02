@@ -1,7 +1,3 @@
-# Palmer Penguins Clustering
-
----
-
 ## Overview
 
 This project aims to cluster penguins into different groups based on their physical characteristics using unsupervised learning algorithms. The project will involve gathering penguin data, cleaning and preprocessing the data, selecting appropriate unsupervised learning algorithms, and evaluating the performance of the clustering models.
